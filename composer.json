@@ -1,0 +1,17 @@
+{
+    "name": "stagiaire/restaurant",
+    "autoload": {
+        "psr-4": {
+            "Stagiaire\\Restaurant\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CASSEZ Guillaume",
+            "email": "cassez.guillaume@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
